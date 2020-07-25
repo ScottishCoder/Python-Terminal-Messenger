@@ -1,0 +1,12 @@
+Go to twillio and create an account to get an account_sid number and a auth_token number.
+
+These are needed to send messages.
+
+Get a free trial number from twillio, this will be your "sender" number. 
+
+Make sure to run the script as Admin in the command prompt.
+
+Follow instructions in the terminal, and enjoy! 
+
+
+Chris
